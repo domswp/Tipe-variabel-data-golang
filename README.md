@@ -1,7 +1,7 @@
 # 🚀 Belajar Go: Variabel & Tipe Data Dasar
 
-Halo! Ini project pertamaku nyobain Go (a.k.a Golang).  
-Masih basic banget, isinya latihan pake variabel, tipe data, sama format angka biar tampilannya kece kayak di dompet 😌💸
+project pertama nyobain Tahu Go.  
+Masih basic banget, isinya latihan pake variabel, tipe data, sama format angka biar tampilannya ga aneh
 
 ## 🧠 Apa yang Dipelajari?
 - Cara bikin variabel (pakai `var` & `:=`)
